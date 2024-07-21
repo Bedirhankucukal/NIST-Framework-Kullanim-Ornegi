@@ -2,7 +2,8 @@
 
 ## İÇERİK
 
-Bu repo google cybersecurity eğitimin verdiği bir senaryoyu kendi bilgi ve becerimle inceleyip çözümlememi içeriyor.
+Bu repo google cybersecurity eğitimin verdiği Küçük işletmelere web tasarım hizmetleri, grafik tasarım ve sosyal medya pazarlama 
+çözümleri sunan bir multimedya şirketinin başına gelen  bir saldırı senaryosunu kendi bilgi ve becerimle inceleyip çözümlememi içeriyor.
 
 
 ### Olay Senaryosu
